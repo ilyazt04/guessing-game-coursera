@@ -1,5 +1,5 @@
 # guessing-game-coursera
 
-make sure the script and makefile are in the same folder!
+**Make Date and Time:** Tue Dec 17 10:30:45 AM WET 2024
 
-after running the script, dont forget to type "make" in the terminal to generate readme.md!
+**Number of Lines in guessinggame.sh:** 26
